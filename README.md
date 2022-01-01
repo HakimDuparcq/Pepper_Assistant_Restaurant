@@ -1,4 +1,4 @@
-# pepper
+# ReadeMe
 Bonjour  ceci est notre projet de fin de 3ème année
 
 
