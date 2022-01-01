@@ -37,3 +37,4 @@ lancer go.py pour observer si les positions sont correctes
 
 
  
+Crédit : Hakim Duparcq, Lia Flament, Côme Serlooten
