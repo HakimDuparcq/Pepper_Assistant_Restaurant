@@ -10,7 +10,7 @@ Bonjour  ceci est notre projet de fin de 3ème année
 
 MODE D’UTILISATION robot d'acceuil:
 
-Se connecter au wifi Yncrea_Lab : 813nV3nue@ 
+Se connecter au wifi Yncrea_Lab
 
 Placer le robot allumé sur la croix jaune (position 0,0 : entrée client)
 
